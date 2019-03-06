@@ -1,0 +1,29 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/esterra_bg.qm</file>
+        <file alias="ca">locale/esterra_ca.qm</file>
+        <file alias="cs">locale/esterra_cs.qm</file>
+        <file alias="da">locale/esterra_da.qm</file>
+        <file alias="de">locale/esterra_de.qm</file>
+        <file alias="en">locale/esterra_en.qm</file>
+        <file alias="en_US">locale/esterra_en_US.qm</file>
+        <file alias="es">locale/esterra_es.qm</file>
+        <file alias="fi">locale/esterra_fi.qm</file>
+        <file alias="fr_FR">locale/esterra_fr_FR.qm</file>
+        <file alias="it">locale/esterra_it.qm</file>
+        <file alias="ja">locale/esterra_ja.qm</file>
+        <file alias="ko_KR">locale/esterra_ko_KR.qm</file>
+        <file alias="nl">locale/esterra_nl.qm</file>
+        <file alias="pl">locale/esterra_pl.qm</file>
+        <file alias="pt">locale/esterra_pt.qm</file>
+        <file alias="pt_BR">locale/esterra_pt_BR.qm</file>
+        <file alias="ro_RO">locale/esterra_ro_RO.qm</file>
+        <file alias="ru">locale/esterra_ru.qm</file>
+        <file alias="sk">locale/esterra_sk.qm</file>
+        <file alias="sv">locale/esterra_sv.qm</file>
+        <file alias="tr">locale/esterra_tr.qm</file>
+        <file alias="uk">locale/esterra_uk.qm</file>
+        <file alias="zh_CN">locale/esterra_zh_CN.qm</file>
+        <file alias="zh_TW">locale/esterra_zh_TW.qm</file>
+    </qresource>
+</RCC>

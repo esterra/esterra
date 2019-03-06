@@ -1,0 +1,11 @@
+[Protocol]
+exec=esterra-qt '%u'
+protocol=esterra
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false

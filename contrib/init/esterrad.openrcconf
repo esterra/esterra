@@ -1,0 +1,26 @@
+# /etc/conf.d/esterrad: config file for /etc/init.d/esterrad
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/esterra/esterra.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/esterrad"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/esterrad.pid"
+
+# Where to write esterrad data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/esterrad"
+
+# User and group to own esterrad process
+#BITCOIND_USER="esterra"
+#BITCOIND_GROUP="esterra"
+
+# Path to esterrad executable
+#BITCOIND_BIN="/usr/bin/esterrad"
+
+# Nice value to run esterrad under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BITCOIND_OPTS=""

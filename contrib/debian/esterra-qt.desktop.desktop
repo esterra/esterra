@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=ESTERRA
+Comment=ESTERRA P2P Cryptocurrency
+Exec=esterra-qt %u
+Terminal=false
+Type=Application
+Icon=esterra128
+MimeType=x-scheme-handler/esterra;
+Categories=Office;Finance;
+Name[en_US]=esterra-qt.desktop
